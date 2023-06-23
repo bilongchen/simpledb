@@ -1,0 +1,13 @@
+# vscode settings directory
+.vscode
+.vs
+#OS X specific files.
+.DS_store
+build/
+*.o
+*.lo
+*.la
+*.swp
+*.so
+*.dylib
+*.a
